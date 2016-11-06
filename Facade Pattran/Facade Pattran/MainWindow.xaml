@@ -1,0 +1,17 @@
+﻿<Window x:Class="Facade_Pattran.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Facade_Pattran"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="Marine" Content="치즈러쉬" Margin="63,26,394,263"></Label>
+        <Button x:Name="MarineAttack" Content="{Binding BuildOrderNames[0]}" Margin="63,68,394,221" Command="{ Binding CheeseRushCommand }" CommandParameter="0"/>
+        
+        <Label x:Name="Medic" Content="FD 테란" Margin="360,26,66,263"></Label>
+        <Button x:Name="SiegeTankAttack" Content ="{Binding BuildOrderNames[1]}" Margin="360,68,97,221" Command="{ Binding FakeDoubleTerranCommand }" CommandParameter="1"/>
+        
+    </Grid>
+</Window>
