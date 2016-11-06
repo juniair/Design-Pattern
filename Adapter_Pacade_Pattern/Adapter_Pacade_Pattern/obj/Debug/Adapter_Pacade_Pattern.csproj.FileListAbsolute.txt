@@ -1,0 +1,14 @@
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\Adapter_Pacade_Pattern.csprojResolveAssemblyReference.cache
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\MainWindow.g.cs
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\App.g.cs
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\Adapter_Pacade_Pattern_MarkupCompile.cache
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\Adapter_Pacade_Pattern_MarkupCompile.lref
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\bin\Debug\Adapter_Pacade_Pattern.exe.config
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\bin\Debug\Adapter_Pacade_Pattern.exe
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\bin\Debug\Adapter_Pacade_Pattern.pdb
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\MainWindow.baml
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\Adapter_Pacade_Pattern.g.resources
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\Adapter_Pacade_Pattern.Properties.Resources.resources
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\Adapter_Pacade_Pattern.csproj.GenerateResource.Cache
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\Adapter_Pacade_Pattern.exe
+D:\work\VS Code\Adapter_Pacade_Pattern\Adapter_Pacade_Pattern\obj\Debug\Adapter_Pacade_Pattern.pdb
