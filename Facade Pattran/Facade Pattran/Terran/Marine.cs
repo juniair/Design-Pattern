@@ -16,13 +16,13 @@ namespace Facade_Pattran.Terran
 
         public void attack()
         {
-            MessageBox.Show("명령 받았습니다.", "마린");
+            MessageBox.Show("돌격 앞으로!", "마린");
         }
         
 
         public void move()
         {
-            MessageBox.Show("돌격 앞으로!", "마린");
+            MessageBox.Show("명령 받았습니다.", "마린");
         }
     }
 }

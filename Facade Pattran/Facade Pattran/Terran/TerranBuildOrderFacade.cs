@@ -24,6 +24,7 @@ namespace Facade_Pattran.Terran
 
         public void CheeseRush(object obj)
         {
+            unitList.Clear();
             supplyDepot = scv.buildSupplyDepot();
             barracks = scv.buildBarrack();
             commandCenterList[0].makeScv(5, ref unitList);
@@ -37,6 +38,8 @@ namespace Facade_Pattran.Terran
 
         public void FakeDoubleTerran(object obj)
         {
+            buildUnitList.Clear();
+            attackUnitList.Clear();
             commandCenterList[0].makeScv(3, ref buildUnitList);
             supplyDepot = scv.buildSupplyDepot();
             commandCenterList[0].makeScv(4, ref buildUnitList);
